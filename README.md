@@ -9,7 +9,7 @@
 # The experiments are carried out on a Windows PC with NVIDIA 4060Ti GPU (16.0GB caches) and 12th Gen Intel(R) Core(TM) i5-12490F @ 3.00 GHz, 32.0GB RAM.
 
 
---Required Python Packages
+## Required Python Packages
 
 python>=3.9.7
 
@@ -22,3 +22,7 @@ scikit-learn>=1.0.1
 scipy>=1.7.3
 
 lightly>=1.4.22
+
+
+
+
