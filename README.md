@@ -1,12 +1,12 @@
 # Title: Differentiable Information Bottleneck for Deterministic Multi-view Clustering
 
-# To test the trained model, run:
+## To test the trained model, run:
   python test.py
 
-# To train a new model, run:
+## To train a new model, run:
   python train.py
 
-# The experiments are carried out on a Windows PC with NVIDIA 4060Ti GPU (16.0GB caches) and 12th Gen Intel(R) Core(TM) i5-12490F @ 3.00 GHz, 32.0GB RAM.
+## The experiments are carried out on a Windows PC with NVIDIA 4060Ti GPU (16.0GB caches) and 12th Gen Intel(R) Core(TM) i5-12490F @ 3.00 GHz, 32.0GB RAM.
 
 
 ## Required Python Packages
